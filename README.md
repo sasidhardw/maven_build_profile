@@ -5,4 +5,8 @@ Steps to run the application
 Be in the project directory
 
 mvn mvn tomcat7:redeploy -P dev
+
+
+
+
 mvn mvn tomcat7:redeploy -P qa
