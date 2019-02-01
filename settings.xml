@@ -1,0 +1,15 @@
+<settings>
+<servers>
+<server>
+      <id>TomcatServer1</id>
+      <username>tomcat1</username>
+      <password>tomcat1</password>
+</server>
+
+<server>
+      <id>TomcatServer2</id>
+      <username>tomcat1</username>
+      <password>tomcat1</password>
+</server>
+</servers>
+</settings>
